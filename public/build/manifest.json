@@ -1,6 +1,6 @@
 {
-  "_Chart.bundle.min-2956e9f2.js": {
-    "file": "assets/Chart.bundle.min-2956e9f2.js",
+  "_Chart.bundle.min-c75e4577.js": {
+    "file": "assets/Chart.bundle.min-c75e4577.js",
     "imports": [
       "__commonjsHelpers-de833af9.js"
     ]
@@ -143,8 +143,8 @@
       "__commonjsHelpers-de833af9.js"
     ]
   },
-  "_jquery.knob.min-be509220.js": {
-    "file": "assets/jquery.knob.min-be509220.js"
+  "_jquery.knob.min-8b2ca083.js": {
+    "file": "assets/jquery.knob.min-8b2ca083.js"
   },
   "_jquery.mapael-f2e48d5b.js": {
     "file": "assets/jquery.mapael-f2e48d5b.js",
@@ -157,8 +157,8 @@
   "_jquery.mousewheel-b0c100f4.js": {
     "file": "assets/jquery.mousewheel-b0c100f4.js"
   },
-  "_jquery.peity.min-d01e6968.js": {
-    "file": "assets/jquery.peity.min-d01e6968.js"
+  "_jquery.peity.min-72d778f3.js": {
+    "file": "assets/jquery.peity.min-72d778f3.js"
   },
   "_jquery.sparkline.min-0826a892.js": {
     "file": "assets/jquery.sparkline.min-0826a892.js"
@@ -390,7 +390,7 @@
     "src": "node_modules/c3/c3.min.js?commonjs-entry"
   },
   "node_modules/chart.js/dist/Chart.bundle.min.js?commonjs-entry": {
-    "file": "assets/Chart.bundle.min-c75e4577.js",
+    "file": "assets/Chart.bundle.min-2956e9f2.js",
     "imports": [
       "__commonjsHelpers-de833af9.js"
     ],
@@ -786,7 +786,7 @@
     "src": "node_modules/jquery-datatables-checkboxes/js/dataTables.checkboxes.min.js?commonjs-entry"
   },
   "node_modules/jquery-knob/dist/jquery.knob.min.js": {
-    "file": "assets/jquery.knob.min-8b2ca083.js",
+    "file": "assets/jquery.knob.min-be509220.js",
     "isEntry": true,
     "src": "node_modules/jquery-knob/dist/jquery.knob.min.js"
   },
@@ -999,7 +999,7 @@
     "src": "node_modules/pdfmake/build/vfs_fonts.js"
   },
   "node_modules/peity/jquery.peity.min.js": {
-    "file": "assets/jquery.peity.min-72d778f3.js",
+    "file": "assets/jquery.peity.min-d01e6968.js",
     "isEntry": true,
     "src": "node_modules/peity/jquery.peity.min.js"
   },
@@ -2202,7 +2202,7 @@
   "resources/js/pages/chartjs.init.js": {
     "file": "assets/chartjs.init-5c27b6ec.js",
     "imports": [
-      "_Chart.bundle.min-2956e9f2.js",
+      "_Chart.bundle.min-c75e4577.js",
       "__commonjsHelpers-de833af9.js"
     ],
     "isEntry": true,
@@ -2303,7 +2303,7 @@
     "file": "assets/dashboard-3.init-1b8a26d5.js",
     "imports": [
       "_Chart.bundle.min-2956e9f2.js",
-      "_jquery.todo-26694644.js",
+      "_jquery.todo-dcc0d4e3.js",
       "__commonjsHelpers-de833af9.js"
     ],
     "isEntry": true,
@@ -2550,7 +2550,7 @@
   "resources/js/pages/peity.init.js": {
     "file": "assets/peity.init-b2ffdaf0.js",
     "imports": [
-      "_jquery.peity.min-d01e6968.js"
+      "_jquery.peity.min-72d778f3.js"
     ],
     "isEntry": true,
     "src": "resources/js/pages/peity.init.js"
@@ -2558,7 +2558,7 @@
   "resources/js/pages/project-details.init.js": {
     "file": "assets/project-details.init-2ea8b67f.js",
     "imports": [
-      "_Chart.bundle.min-2956e9f2.js",
+      "_Chart.bundle.min-c75e4577.js",
       "__commonjsHelpers-de833af9.js"
     ],
     "isEntry": true,
@@ -2661,7 +2661,7 @@
   "resources/js/pages/widgets-peity.init.js": {
     "file": "assets/widgets-peity.init-156bcc7b.js",
     "imports": [
-      "_jquery.knob.min-be509220.js"
+      "_jquery.knob.min-8b2ca083.js"
     ],
     "isEntry": true,
     "src": "resources/js/pages/widgets-peity.init.js"
@@ -2671,7 +2671,7 @@
     "imports": [
       "_jquery.peity.min-d01e6968.js",
       "_jquery.knob.min-be509220.js",
-      "_jquery.sparkline.min-0826a892.js",
+      "_jquery.sparkline.min-a397d84d.js",
       "_sweetalert2.min-b0be826f.js",
       "_moment.min-99d8ed29.js",
       "_jquery.todo-26694644.js",
