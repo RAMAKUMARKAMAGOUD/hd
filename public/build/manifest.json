@@ -92,8 +92,8 @@
   "_dropzone.min-c670d355.js": {
     "file": "assets/dropzone.min-c670d355.js"
   },
-  "_flatpickr.min-4f1e3e58.js": {
-    "file": "assets/flatpickr.min-4f1e3e58.js",
+  "_flatpickr.min-c9e6d9f8.js": {
+    "file": "assets/flatpickr.min-c9e6d9f8.js",
     "imports": [
       "__commonjsHelpers-de833af9.js"
     ]
@@ -160,11 +160,11 @@
   "_jquery.peity.min-d01e6968.js": {
     "file": "assets/jquery.peity.min-d01e6968.js"
   },
-  "_jquery.sparkline.min-a397d84d.js": {
-    "file": "assets/jquery.sparkline.min-a397d84d.js"
+  "_jquery.sparkline.min-0826a892.js": {
+    "file": "assets/jquery.sparkline.min-0826a892.js"
   },
-  "_jquery.todo-dcc0d4e3.js": {
-    "file": "assets/jquery.todo-dcc0d4e3.js"
+  "_jquery.todo-26694644.js": {
+    "file": "assets/jquery.todo-26694644.js"
   },
   "_microplugin-5895a2c3.js": {
     "file": "assets/microplugin-5895a2c3.js",
@@ -672,7 +672,7 @@
     "src": "flatpickr.css"
   },
   "node_modules/flatpickr/dist/flatpickr.min.js?commonjs-entry": {
-    "file": "assets/flatpickr.min-c9e6d9f8.js",
+    "file": "assets/flatpickr.min-4f1e3e58.js",
     "imports": [
       "__commonjsHelpers-de833af9.js"
     ],
@@ -843,7 +843,7 @@
     "src": "node_modules/jquery-mockjax/dist/jquery.mockjax.min.js?commonjs-entry"
   },
   "node_modules/jquery-sparkline/jquery.sparkline.min.js": {
-    "file": "assets/jquery.sparkline.min-0826a892.js",
+    "file": "assets/jquery.sparkline.min-a397d84d.js",
     "isEntry": true,
     "src": "node_modules/jquery-sparkline/jquery.sparkline.min.js"
   },
@@ -2225,7 +2225,7 @@
     "imports": [
       "_select2.min-d7d78038.js",
       "_dropzone.min-c670d355.js",
-      "_flatpickr.min-4f1e3e58.js",
+      "_flatpickr.min-c9e6d9f8.js",
       "__commonjsHelpers-de833af9.js",
       "_jquery-ef5d6b77.js"
     ],
@@ -2255,7 +2255,7 @@
   "resources/js/pages/crm-opportunities.init.js": {
     "file": "assets/crm-opportunities.init-80697657.js",
     "imports": [
-      "_jquery.sparkline.min-a397d84d.js"
+      "_jquery.sparkline.min-0826a892.js"
     ],
     "isEntry": true,
     "src": "resources/js/pages/crm-opportunities.init.js"
@@ -2283,7 +2283,7 @@
     ],
     "file": "assets/dashboard-1.init-be18bb6f.js",
     "imports": [
-      "_flatpickr.min-4f1e3e58.js",
+      "_flatpickr.min-c9e6d9f8.js",
       "_apexcharts.common-b39be1f1.js",
       "__commonjsHelpers-de833af9.js"
     ],
@@ -2293,7 +2293,7 @@
   "resources/js/pages/dashboard-2.init.js": {
     "file": "assets/dashboard-2.init-24468360.js",
     "imports": [
-      "_jquery.sparkline.min-a397d84d.js",
+      "_jquery.sparkline.min-0826a892.js",
       "_jquery-jvectormap-world-mill-en-6f37b3a0.js"
     ],
     "isEntry": true,
@@ -2303,7 +2303,7 @@
     "file": "assets/dashboard-3.init-1b8a26d5.js",
     "imports": [
       "_Chart.bundle.min-2956e9f2.js",
-      "_jquery.todo-dcc0d4e3.js",
+      "_jquery.todo-26694644.js",
       "__commonjsHelpers-de833af9.js"
     ],
     "isEntry": true,
@@ -2413,7 +2413,7 @@
   "resources/js/pages/form-pickers.init.js": {
     "file": "assets/form-pickers.init-a1f5a82d.js",
     "imports": [
-      "_flatpickr.min-4f1e3e58.js",
+      "_flatpickr.min-c9e6d9f8.js",
       "_jquery-ef5d6b77.js",
       "__commonjsHelpers-de833af9.js"
     ],
@@ -2483,7 +2483,7 @@
     "src": "resources/js/pages/jquery.chat.js"
   },
   "resources/js/pages/jquery.todo.js": {
-    "file": "assets/jquery.todo-26694644.js",
+    "file": "assets/jquery.todo-dcc0d4e3.js",
     "isEntry": true,
     "src": "resources/js/pages/jquery.todo.js"
   },
@@ -2581,7 +2581,7 @@
   "resources/js/pages/sparkline.init.js": {
     "file": "assets/sparkline.init-27fbff05.js",
     "imports": [
-      "_jquery.sparkline.min-a397d84d.js"
+      "_jquery.sparkline.min-0826a892.js"
     ],
     "isEntry": true,
     "src": "resources/js/pages/sparkline.init.js"
@@ -2671,10 +2671,10 @@
     "imports": [
       "_jquery.peity.min-d01e6968.js",
       "_jquery.knob.min-be509220.js",
-      "_jquery.sparkline.min-a397d84d.js",
+      "_jquery.sparkline.min-0826a892.js",
       "_sweetalert2.min-b0be826f.js",
       "_moment.min-99d8ed29.js",
-      "_jquery.todo-dcc0d4e3.js",
+      "_jquery.todo-26694644.js",
       "__commonjsHelpers-de833af9.js",
       "__commonjs-dynamic-modules-302442b1.js"
     ],
