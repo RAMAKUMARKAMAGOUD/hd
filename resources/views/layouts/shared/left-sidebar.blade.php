@@ -63,21 +63,22 @@
                         <i data-feather="airplay"></i>
                     </span>
                     <span class="menu-text"> Dashboards </span>
-                    <span class="badge bg-success rounded-pill ms-auto"></span>
+                    <span class="badge bg-success rounded-pill ms-auto">4</span>
                 </a>
                 <div class="collapse" id="sidebarDashboards">
                     <ul class="sub-menu">
                         <li class="menu-item ">
                             <a href="{{ route('any', 'index') }}" class="menu-link"><span class="menu-text">Dashboard 1</span></a>
                         </li>
-
+                        <li class="menu-item">
+                            <a href="{{ route('any', 'dashboard-2') }}" class="menu-link"><span class="menu-text">Dashboard 2</span></a>
+                        </li>
+                       
                     </ul>
                 </div>
             </li>
 
             <li class="menu-title">Apps</li>
-
-
 
 
 
@@ -91,7 +92,18 @@
                 </a>
                 <div class="collapse" id="sidebarCrm">
                     <ul class="sub-menu">
-
+                        <li class="menu-item">
+                            <a class="menu-link" href="{{ route('second', ['crm', 'dashboard']) }}"><span class="menu-text">Dashboard</span></a>
+                        </li>
+                        <li class="menu-item">
+                            <a class="menu-link" href="{{ route('second', ['crm', 'contacts']) }}"><span class="menu-text">Contacts</span></a>
+                        </li>
+                        <li class="menu-item">
+                            <a class="menu-link" href="{{ route('second', ['crm', 'opportunities']) }}"><span class="menu-text">Opportunities</span></a>
+                        </li>
+                        <li class="menu-item">
+                            <a class="menu-link" href="{{ route('second', ['crm', 'leads']) }}"><span class="menu-text">Leads</span></a>
+                        </li>
                         <li class="menu-item">
                             <a class="menu-link" href="{{ route('second', ['crm', 'customers']) }}"><span class="menu-text">Customers</span></a>
                         </li>
@@ -113,12 +125,17 @@
                         <li class="menu-item">
                             <a class="menu-link" href="{{ route('second', ['email', 'read']) }}"><span class="menu-text">Read Email</span></a>
                         </li>
-                       
+                        <li class="menu-item">
+                            <a class="menu-link" href="{{ route('second', ['email', 'compose']) }}"><span class="menu-text">Compose Email</span></a>
+                        </li>
+                        <li class="menu-item">
+                            <a class="menu-link" href="{{ route('second', ['email', 'templates']) }}"><span class="menu-text">Email Templates</span></a>
+                        </li>
                     </ul>
                 </div>
             </li>
 
-
+        </ul>
 
         {{-- </div> --}}
         <!-- End Sidebar -->
